@@ -8,6 +8,8 @@ export const translations = {
     darkMode: 'Dark Mode',
     lightMode: 'Light Mode',
     systemTheme: 'System Theme',
+    thankYou: "Thank you for using QR Maestro",
+    copyright: "© 2025 QR Maestro. All rights reserved."
   },
   ar: {
     title: 'كيو آر ماسترو',
@@ -18,6 +20,8 @@ export const translations = {
     darkMode: 'الوضع الداكن',
     lightMode: 'الوضع الفاتح',
     systemTheme: 'سمة النظام',
+    thankYou: "شكراً لاستخدامك كيو آر ماسترو",
+    copyright: "© 2025 كيو آر ماسترو. جميع الحقوق محفوظة."
   },
 };
 

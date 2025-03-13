@@ -91,6 +91,11 @@ export default function Home() {
             </div>
           )}
         </div>
+
+        <footer className="mt-12 text-center text-sm text-muted-foreground">
+          <p className="mb-1">{t.thankYou}</p>
+          <p>{t.copyright}</p>
+        </footer>
       </div>
     </main>
   );
