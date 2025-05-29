@@ -19,7 +19,7 @@ export default function RootLayout({
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet" />
         <script 
           async 
-          src="https://pagead2.googlesyndatabase.com/pagead/js/adsbygoogle.js?client=ca-pub-9211909608850923"
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9211909608850923"
           crossOrigin="anonymous"
         />
       </head>
